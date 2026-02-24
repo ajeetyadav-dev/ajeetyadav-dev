@@ -1,6 +1,11 @@
-<!-- Typing Intro Banner -->
+<!-- 🔥 Custom Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ajeet+Yadav;Full+Stack+Developer+%7C+Web+Dev+Educator;Code+Sikho+With+AJ+%F0%9F%9A%80;Teaching+Coding+in+Hindi+for+Beginners" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Ajeet%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Sikho%20With%20AJ&descAlignY=55&descAlign=50"/>
+</p>
+
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ajeet+Yadav;Full+Stack+Developer+%7C+Web+Dev+Educator;Code+Sikho+With+AJ+%F0%9F%9A%80;Teaching+Coding+in+Hindi+for+Beginners" />
 </p>
 
 <h3 align="center">💻 Full Stack Developer | 🎓 Hindi Coding Educator | 🚀 YouTube Creator</h3>
@@ -36,7 +41,7 @@
 - 🎨 CSS Mastery Series
 - ⚡ JavaScript Real Projects
 - 🚀 Laravel Full Course 2026
-- 🎥 Daily Coding Content for YouTube
+- 🎥 Daily Coding Content on YouTube
 
 ---
 
@@ -55,16 +60,17 @@
 
 ---
 
-# 📈 Contribution Graph Snake 🐍
+# 📈 Contribution Snake 🐍
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-# 📺 Featured YouTube Content
+# 📺 Latest YouTube Videos
+<!-- Replace with manual links OR later we can automate via GitHub Action -->
 - 🎬 Learn HTML in Hindi – Complete Beginner Guide  
-- 🎨 CSS Grid vs Flexbox Explained  
+- 🎨 CSS Grid vs Flexbox Explained in Hindi  
 - 🧾 HTML Tables Complete Structure  
 - 🔥 CSS Box Model Complete Guide  
 - ⚡ JavaScript Beginner Projects  
@@ -73,11 +79,15 @@
 
 ---
 
-# 📂 Courses & Playlists
-- 📘 HTML Complete Tutorial (Beginner → Advanced)
-- 🎨 CSS Mastery Course
-- 🚀 Frontend Projects for Beginners
-- 🧠 Laravel Full Course in Hindi
+# 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/ajeetyadav-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetyadav-dev&repo=portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ajeetyadav-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetyadav-dev&repo=laravel-project&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -92,6 +102,11 @@
 ---
 
 # ⚡ Fun Developer Joke
+
+Why do programmers hate nature?
+Because it has too many bugs 🐛
+
+
 ---
 
 # 👀 Profile Visitors
@@ -101,4 +116,4 @@
 
 ---
 
-<h3 align="center">⭐ “Teaching Coding in Hindi – From Zero to Pro” 🚀</h3>
+<h3 align="center">⭐ Teaching Coding in Hindi – From Zero to Pro 🚀</h3>
