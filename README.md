@@ -15,6 +15,9 @@
   <a href="https://www.instagram.com/codesikhowithaj">
     <img src="https://img.shields.io/badge/Instagram-@codesikhowithaj-pink?style=for-the-badge&logo=instagram"/>
   </a>
+  <a href="https://x.com/Ajeet__01">
+    <img src="https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=twitter"/>
+  </a>
 </p>
 
 ---
@@ -83,13 +86,12 @@
   <a href="https://www.youtube.com/@CodeSikhoWithAJ"><img src="https://img.shields.io/badge/YouTube-CodeSikhoWithAJ-red?style=for-the-badge&logo=youtube"></a>
   <a href="https://www.linkedin.com/in/ajeet-yadav-179b17235"><img src="https://img.shields.io/badge/LinkedIn-AjeetYadav-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.instagram.com/a.j.e.e.t__01"><img src="https://img.shields.io/badge/Instagram-@a.j.e.e.t__01-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="https://x.com/Ajeet__01"><img src="https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=twitter"></a>
 </p>
 
 ---
 
 # ⚡ Fun Developer Joke
-
-
 ---
 
 # 👀 Profile Visitors
