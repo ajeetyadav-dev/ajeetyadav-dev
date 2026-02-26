@@ -1,14 +1,14 @@
-<!-- 🔥 Custom Banner -->
+<!-- 🔥 Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Ajeet%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Sikho%20With%20AJ&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ajeet%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web%20Dev%20Educator%20%7C%20Code%20Sikho%20With%20AJ&descAlignY=55&descAlign=50"/>
 </p>
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ajeet+Yadav;Full+Stack+Developer+%7C+Web+Dev+Educator;Code+Sikho+With+AJ+%F0%9F%9A%80;Teaching+Coding+in+Hindi+for+Beginners" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ajeet+Yadav;Full+Stack+Developer+%7C+Educator;Teaching+Coding+in+Hindi+%F0%9F%87%AE%F0%9F%87%B3;Building+Real+World+Projects+%F0%9F%9A%80" />
 </p>
 
-<h3 align="center">💻 Full Stack Developer | 🎓 Hindi Coding Educator | 🚀 YouTube Creator</h3>
+<h3 align="center">💻 Full Stack Developer | 🎓 Hindi Coding Educator | 🚀 YouTube Creator – Code Sikho With AJ</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@CodeSikhoWithAJ">
@@ -28,66 +28,72 @@
 ---
 
 # 👨‍💻 About Me
-- 🎥 Creator of **Code Sikho With AJ**
-- 💼 Full Stack Developer (3+ Years Experience)
-- 🌱 Teaching **HTML, CSS, JavaScript, React & Laravel**
-- 🚀 Building Real-World Projects for Beginners
-- 🇮🇳 Teaching coding in **Hindi** for easy understanding
+- 🎥 Creator of **Code Sikho With AJ** (Hindi Coding Channel)
+- 💼 Full Stack Developer with **3+ Years Experience**
+- 🌐 Skilled in building **production-ready web applications**
+- 🧠 Focused on beginner-friendly & job-ready coding content
+- 🇮🇳 Mission: Teach Web Development in Hindi (Beginner → Advanced)
 
 ---
 
 # 🧠 Currently Working On
 - 📚 HTML Complete Course (Beginner → Advanced)
-- 🎨 CSS Mastery Series
-- ⚡ JavaScript Real Projects
+- 🎨 CSS Mastery & Real UI Projects
+- ⚡ JavaScript Practical Projects
 - 🚀 Laravel Full Course 2026
-- 🎥 Daily Coding Content on YouTube
+- 🌍 Real-world Full Stack Applications
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,laravel,mysql,sass,tailwind,jquery,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,laravel,mysql,sass,tailwind,jquery" />
 </p>
 
 ---
 
-# 📊 GitHub Stats & Streak
+# ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajeetyadav-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetyadav-dev&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
 </p>
 
 ---
 
-# 📈 Contribution Snake 🐍
+# 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeetyadav-dev&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetyadav-dev&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+# 📈 Contribution Activity 🐍
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-# 📺 Latest YouTube Videos
-<!-- Replace with manual links OR later we can automate via GitHub Action -->
+# 📺 Latest YouTube Tutorials
 - 🎬 Learn HTML in Hindi – Complete Beginner Guide  
-- 🎨 CSS Grid vs Flexbox Explained in Hindi  
+- 🎨 CSS Grid vs Flexbox Explained  
 - 🧾 HTML Tables Complete Structure  
 - 🔥 CSS Box Model Complete Guide  
 - ⚡ JavaScript Beginner Projects  
 
-> 🔗 Channel: https://www.youtube.com/@CodeSikhoWithAJ
+🔗 Channel: https://www.youtube.com/@CodeSikhoWithAJ
 
 ---
 
 # 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/ajeetyadav-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetyadav-dev&repo=portfolio&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ajeetyadav-dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetyadav-dev&repo=laravel-project&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetyadav-dev&repo=portfolio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajeetyadav-dev&repo=laravel-project&theme=tokyonight" />
 </p>
+
+> 🔧 Replace `portfolio` & `laravel-project` with your real repository names.
 
 ---
 
@@ -101,17 +107,14 @@
 
 ---
 
-# ⚡ Fun Developer Joke
-
-Why do programmers hate nature?
-Because it has too many bugs 🐛
-
+# ⚡ Developer Quote
+> “First, solve the problem. Then, write the code.” 💡
 
 ---
 
 # 👀 Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajeetyadav-dev&label=Profile%20Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ajeetyadav-dev&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
