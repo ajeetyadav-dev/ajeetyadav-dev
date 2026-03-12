@@ -68,6 +68,19 @@
 </p>
 
 ---
+# 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeetyadav-dev&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeetyadav-dev&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+# 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetyadav-dev&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
 
 # 📈 Contribution Activity 🐍
 <p align="center">
