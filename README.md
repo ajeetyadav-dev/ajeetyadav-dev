@@ -1,11 +1,11 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ajeet%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Sikho%20With%20AJ&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ajeet%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Sikho%20With%20AJ&descAlignY=55&descAlign=50"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Ajeet+Yadav;Full+Stack+Developer;Web+Development+Educator;Teaching+Coding+in+Hindi;Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ajeet+Yadav;Full+Stack+Developer;Web+Development+Educator;Teaching+Coding+in+Hindi;Building+Real+World+Projects" />
 </p>
 
 <h3 align="center">💻 Full Stack Developer | 🎓 Hindi Coding Educator | 🚀 YouTube Creator</h3>
@@ -25,9 +25,7 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,laravel,mysql,sass,tailwind,jquery"/>
-
 </p>
 
 ---
@@ -108,32 +106,63 @@
 
 </p>
 
----
-
-# 💼 Portfolio Projects
-
-| Project | Tech | Description |
-|------|------|------|
-| Todo App | HTML CSS JS | Task manager with Local Storage |
-| Weather App | JavaScript API | Live weather data using API |
-| Portfolio Website | HTML CSS | Personal developer portfolio |
-| Laravel Login System | Laravel MySQL | Secure authentication system |
+> Replace `portfolio` and `laravel-project` with your real repo names.
 
 ---
 
-# 📺 Latest YouTube Videos
+# 📺 My Coding Content
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+- HTML Complete Course
+- CSS Mastery Series
+- JavaScript Real Projects
+- Laravel Full Course
+- Frontend Projects for Beginners
+
+🔗 https://www.youtube.com/@CodeSikhoWithAJ
 
 ---
 
-# ⏱ Coding Activity
+# 🎯 Goals for 2026
 
-<!--START_SECTION:waka-->
+- 🚀 Reach **10K YouTube Subscribers**
+- 📚 Complete **Full Stack Hindi Course**
+- 🌍 Build **Open Source Projects**
+- 💼 Work on **Large Scale Web Applications**
 
-```text
-HTML         5 hrs
-JavaScript   3 hrs
-CSS          2 hrs
-PHP          1 hr
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.youtube.com/@CodeSikhoWithAJ">
+<img src="https://img.shields.io/badge/YouTube-CodeSikhoWithAJ-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ajeet-yadav-179b17235">
+<img src="https://img.shields.io/badge/LinkedIn-AjeetYadav-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/a.j.e.e.t__01">
+<img src="https://img.shields.io/badge/Instagram-a.j.e.e.t__01-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://x.com/Ajeet__01">
+<img src="https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=twitter"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ajeetyadav-dev&label=Profile%20Views&color=blueviolet&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Teaching Coding in Hindi – From Zero to Pro 🚀</h3>
